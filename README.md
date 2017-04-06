@@ -47,4 +47,4 @@ def main():
 > * 发现每次爬虫都很机械，框架都差不多Orz 
 > * 是时候向scrapy进发了
 
-
+![效果图](./baidu_tieba.png)
